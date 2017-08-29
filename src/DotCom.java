@@ -7,7 +7,7 @@ public class DotCom {
     public void setLocationCells(ArrayList<String> array) {
         locationCells=array;
     }
-    
+
     public void setName(String name) {
         this.name=name;
     }
